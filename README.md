@@ -1,9 +1,9 @@
-# Modul ESP32 Relay 2 Channel 
-![](https://github.com/hwthinker/ESP32-relay2ch/blob/main/picture/1.png)
+# Modul ESP32 Relay 8 Channel 
+![](https://github.com/hwthinker/esp32-relay8ch/blob/main/picture/1.png)
 
 
 ## Cara download dengan Serial USB biasa
-![](https://github.com/hwthinker/ESP32-relay2ch/blob/main/picture/2.png)
+![](https://github.com/hwthinker/esp32-relay8ch/blob/main/picture/2.png)
 - Pasang serial USB TTL dengan ketentuan: 
    - TX -> RX USB Serial (Kabel Putih)
    - RX -> TX USB Serial (Kabel Hijau)
@@ -19,7 +19,7 @@
 
 
 ## Cara download dengan Serial USB auto Download
-![](https://github.com/hwthinker/ESP32-relay2ch/blob/main/picture/3.png)
+![](https://github.com/hwthinker/esp32-relay8ch/blob/main/picture/3.png)
 - Pasang serial USB TTL dengan ketentuan:
     - RX -> RX USB Serial  
     - TX -> TX USB Serial 
